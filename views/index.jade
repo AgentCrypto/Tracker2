@@ -1,5 +1,23 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  h1= data.id
+  table
+    thead
+      td Name
+      td Value
+    tr
+      td Last
+      td #{data.last}
+    tr
+      td Volume
+      td #{data.volume}
+    tr
+      td Ask
+      td #{data.ask}
+    tr
+      td Bid
+      td #{data.bid}
+    tr
+      td Percent change
+      td #{data.percentChange}
