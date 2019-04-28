@@ -19,6 +19,7 @@ Q2 monitor:  add Stex,Cryptobridge,Tradeogre,Crex24,
    front end with color,alarm and sound all reactive
     
 Q3 add more algorythme 👀   volume movement by day
+
 auto arbitrage jsonrpc
 
 Q4 add virtual machine
