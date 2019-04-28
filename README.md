@@ -20,5 +20,6 @@ Q2 monitor: Stex,Cryptobridge,Tradeogre,Crex24,
     
 Q3 add more algorythme 👀   volume movement by day
 
-q4 add virtual machine
+Q4 add virtual machine
+
 
